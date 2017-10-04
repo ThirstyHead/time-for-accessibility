@@ -1,0 +1,20 @@
+{
+  "name": "time-for-accessibility",
+  "homepage": "https://github.com/ThirstyHead/time-for-accessibility",
+  "authors": [
+    "Scott Davis <scott@thirstyhead.com>"
+  ],
+  "description": "PRESENTATION: It's Time for Accessibility",
+  "main": "index.html",
+  "license": "cc-by-4.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "talk-o-vision": "thirstyhead/talk-o-vision#^0.4.0"
+  }
+}
